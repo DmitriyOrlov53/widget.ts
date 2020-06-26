@@ -1,0 +1,11 @@
+{
+  "name": "widget.ts",
+  "version": "0.1.0",
+  "description": "library for ceating embedded web widgets",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "DmitriyOrlov53",
+  "license": "MIT"
+}
